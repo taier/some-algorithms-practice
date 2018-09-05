@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Quick-find.iml" filepath="$PROJECT_DIR$/Quick-find.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quick-Uninon.iml" filepath="$PROJECT_DIR$/Quick-Uninon.iml" />
       <module fileurl="file://$PROJECT_DIR$/../UserInputModule/UserInputModule.iml" filepath="$PROJECT_DIR$/../UserInputModule/UserInputModule.iml" />
     </modules>
   </component>

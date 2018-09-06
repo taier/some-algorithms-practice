@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="924dd137-f427-4262-a376-25d2a278f18d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Quick-Uninon/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quick-Uninon/src/com/company/QuickUninonModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quick-find/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserInputModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quick-find/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-find/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quick-Uninon/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-Uninon/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quick-Uninon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-Uninon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quick-Uninon/Quick-Uninon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-Uninon/Quick-Union.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quick-Uninon/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-Uninon/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quick-Uninon/src/com/company/QuickUninonModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-Uninon/src/com/company/QuickUnionModule.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quick-find/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-find/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quick-find/Quick-find.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-find/Quick-find.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quick-find/out/production/Quick-find/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-find/out/production/Quick-find/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quick-find/out/production/Quick-find/com/company/UserInputModule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quick-find/src/com/company/UserInputModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +21,7 @@
     <session id="-100502988">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -62,12 +58,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="22" />
     <option name="width" value="1680" />
     <option name="height" value="1028" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -138,16 +136,15 @@
       <option name="presentableId" value="Default" />
       <updated>1536168152287</updated>
       <workItem from="1536168156164" duration="74000" />
-      <workItem from="1536168697933" duration="671000" />
+      <workItem from="1536168697933" duration="726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="745000" />
+    <option name="totallyTimeSpent" value="800000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

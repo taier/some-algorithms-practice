@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Quick-Union.iml" filepath="$PROJECT_DIR$/Quick-Union.iml" />
       <module fileurl="file://$PROJECT_DIR$/../UserInputModule/UserInputModule.iml" filepath="$PROJECT_DIR$/../UserInputModule/UserInputModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weighted-Quick-Union.iml" filepath="$PROJECT_DIR$/Weighted-Quick-Union.iml" />
     </modules>
   </component>
 </project>

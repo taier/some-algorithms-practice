@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9936cdac-7506-44a1-aa91-740fa841ef5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Quick-Uninon/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quick-Uninon/src/com/company/QuickUninonModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UserInputModule/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UserInputModule/UserInputModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quick-find.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Quick-find.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Quick-find/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quick-find/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Quick-find/com/company/UserInputModule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/UserInputModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quick-Uninon/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-Uninon/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quick-Uninon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-Uninon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quick-Uninon/Quick-Uninon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-Uninon/Quick-Union.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quick-Uninon/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-Uninon/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quick-Uninon/src/com/company/QuickUninonModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick-Uninon/src/com/company/QuickUnionModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserInputModule/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UserInputModule/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +49,7 @@
     <session id="193967675">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="2" />
@@ -128,8 +123,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/QuickFindModule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="374">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="e#136#137#0" expanded="true" />
                 <element signature="e#179#180#0" expanded="true" />
@@ -250,7 +245,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536170043373" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536254094078" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -298,12 +293,12 @@
       <updated>1536086951953</updated>
       <workItem from="1536086953357" duration="3171000" />
       <workItem from="1536167581250" duration="278000" />
-      <workItem from="1536167895799" duration="2127000" />
+      <workItem from="1536167895799" duration="2200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5576000" />
+    <option name="totallyTimeSpent" value="5649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="0" />
@@ -319,7 +314,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.36431623" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36431623" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -441,8 +436,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/QuickFindModule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="e#136#137#0" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />

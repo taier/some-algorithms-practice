@@ -1,10 +1,10 @@
 package com.company;
 
-public class QuickUninonModule {
+public class QuickUnionModule {
 
     private int[] arrayOfItems;
 
-    public QuickUninonModule(int numberOfElements) {
+    public QuickUnionModule(int numberOfElements) {
         initArray(numberOfElements);
     }
 

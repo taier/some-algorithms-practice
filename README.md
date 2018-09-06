@@ -13,6 +13,7 @@ You could check if elements are connected.
 ### Repository contains solution by different methods: 
 - Quick-find
 - Quick-union
+- Weighted-quick-union
 
 1. the program is asking for a number of elements (N)
 2. then you could connect each element with another by calling connect(number1, number2). You could call that function multiple times
